@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @agag508
 - 👀 I’m interested in everything Python 🐍 
-- 🌱 I’m currently learning the basics of the OOP
+- 🌱 I’m currently working on some projects 
 - 💞️ I’m looking to collaborate on an entry level programs improving everyday life
 - 📫 Reach me via email 📧 agag508@gmail.com
 
